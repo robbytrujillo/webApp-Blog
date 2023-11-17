@@ -1,6 +1,6 @@
 # Project Web APP Blog
 
-<h2>Blog</h2>
+<h2>BlogApp</h2>
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
